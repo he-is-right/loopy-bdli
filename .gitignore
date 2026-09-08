@@ -1,4 +1,10 @@
 extract.py
 index.html
 .env
-.py
+*.py
+node_modules/
+*.pdf
+*.pptx
+Software_Development_Bootcamp_Module_8_Authentication_Database_Integration_Complete.pdf
+Software_Development_Bootcamp_Module_8_Authentication_Database_Integration_Complete.pptx
+Module8 Routing Middleware Controllers.pptx

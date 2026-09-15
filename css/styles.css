@@ -1,7 +1,7 @@
-/* ==========================================
+/* 
    SIMPLE, CLEAN STYLESHEET FOR STUDENTS
    No icons, clear layout, readable typography
-   ========================================== */
+   */
 
 * {
   margin: 0;
@@ -126,7 +126,8 @@ label {
   margin-bottom: 4px;
 }
 
-input, select {
+input,
+select {
   width: 100%;
   padding: 8px 10px;
   font-size: 14px;
@@ -135,7 +136,8 @@ input, select {
   outline: none;
 }
 
-input:focus, select:focus {
+input:focus,
+select:focus {
   border-color: #3182ce;
 }
 
